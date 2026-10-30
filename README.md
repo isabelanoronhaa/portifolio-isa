@@ -42,6 +42,5 @@ Estudante de Administração na **UFRGS**, apaixonada por inovação, análise d
 
 <div align="center">
   <sub>Portfólio construído com foco em estratégia de negócios e tecnologia.</sub>
+  <p>📫 <b>Vamos nos conectar?</b> <a href="https://br.linkedin.com/in/isabelanoronha" target="_blank">LinkedIn</a></p>
 </div>
-📫 **Vamos nos conectar?**
-* [LinkedIn][(https://br.linkedin.com/in/isabelanoronha)]
