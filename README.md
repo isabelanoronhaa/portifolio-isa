@@ -18,7 +18,8 @@ A comunicação também é algo com que sempre me identifiquei. Gosto de pensar 
 
 Hoje, como estudante de **Administração na Universidade Federal do Rio Grande do Sul (UFRGS)**, venho descobrindo formas de conectar esses interesses. Tenho explorado ferramentas digitais, análise de dados e inteligência artificial, buscando entender como a tecnologia pode contribuir tanto para os negócios quanto para as pessoas.
 
-Foi dessa vontade de experimentar e aprender na prática que surgiram os projetos que compartilho aqui. Mais do que apresentar resultados, este portfólio representa minha curiosidade, meus aprendizados e minha vontade de continuar descobrindo novas possibilidades.
+Foi dessa vontade de experimentar e aprender na prática que surgiram os projetos que compartilho aqui. 
+Mais do que apresentar resultados, este portfólio representa minha curiosidade, meus aprendizados e minha vontade de continuar descobrindo novas possibilidades.
 
 <div align="right">
 
