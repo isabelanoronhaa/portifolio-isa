@@ -1,12 +1,12 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Olá! Eu sou a Isabela
 
 ### Administração • Dados • Inteligência Artificial
 
-Estudante de Administração na **Universidade Federal do Rio Grande do Sul (UFRGS)**.
+🎓 Estudante de **Administração na Universidade Federal do Rio Grande do Sul (UFRGS)**.
 
-Tenho interesse na interseção entre negócios, tecnologia e inteligência artificial, explorando como ferramentas digitais podem transformar problemas em oportunidades e apoiar decisões estratégicas.
+Tenho interesse na interseção entre negócios, tecnologia e inteligência artificial. Gosto de explorar como ferramentas digitais podem transformar problemas em oportunidades, otimizar processos e apoiar decisões estratégicas.
 
 <br>
 
@@ -14,44 +14,56 @@ Tenho interesse na interseção entre negócios, tecnologia e inteligência arti
 <img src="https://img.shields.io/badge/Data-Analytics-6B7280?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Artificial-Intelligence-E32636?style=for-the-badge" />
 
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelanoronhaa)
-
 </div>
 
 ---
 
 ## 🚀 Projeto em destaque
 
+# PULSE — Consumer Behavior Intelligence
+
+**Plataforma demonstrativa de inteligência de negócios voltada à análise do comportamento do consumidor no mercado de delivery.**
+
+O PULSE foi desenvolvido com a proposta de transformar dados de comportamento do consumidor em informações estratégicas, facilitando a identificação de oportunidades e apoiando decisões comerciais.
+
+### 📊 Funcionalidades
+
+- **Visão geral:** painel com indicadores de desempenho, conversão, abandono e comportamento de consumo.
+- **Consumer Behavior:** análise de padrões de navegação, horários de acesso, produtos e categorias mais procurados.
+- **Cart Insights:** análise da jornada de compra e identificação de pontos de abandono.
+- **Simulador de cenários:** experimentação de estratégias comerciais envolvendo preços, frete, descontos e tempo de entrega.
+- **AI Business Advisor:** assistente demonstrativo que utiliza regras predefinidas para simular respostas e recomendações sobre indicadores e oportunidades de negócio.
+- **Relatórios e oportunidades:** organização de análises em recomendações estratégicas, com ações sugeridas e resultados esperados como hipóteses.
+
+### 🧠 Conceito
+
+O projeto conecta conceitos de Administração, análise de dados e tecnologia em uma experiência digital orientada à tomada de decisão.
+
+**Dados → Análise → Oportunidades → Decisão**
+
+### 🛠️ Tecnologias e ferramentas
+
+- **IA generativa:** apoio à concepção e ao desenvolvimento.
+- **V0:** criação e desenvolvimento da interface.
+- **HTML e CSS:** construção da experiência web.
+- **Vercel:** publicação da plataforma.
+- **GitHub:** organização do projeto.
+
+### 📌 Sobre o projeto
+
+Projeto independente com dados fictícios e resultados demonstrativos, sem vínculo ou integração com o iFood. O AI Business Advisor utiliza respostas simuladas por regras, sem conexão com modelos reais de IA.
+
 <div align="center">
 
-### <img src="https://img.shields.io/badge/PULSE-Consumer_Behavior_Intelligence-E32636?style=for-the-badge" />
+<a href="https://pulse-consumer-behavior-intelligenc.vercel.app/">
+  <img src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-E32636?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/isabelanoronhaa/portifolio-isa">
+  <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-20232A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-
-O **PULSE** é uma plataforma demonstrativa de inteligência de negócios voltada à análise do comportamento do consumidor no mercado de delivery.
-
-O projeto busca transformar dados em informações estratégicas, conectando análise de indicadores, comportamento do consumidor e tomada de decisão.
-
-**Principais funcionalidades:**
-
-- Análise do comportamento e da jornada de compra.
-- Identificação de oportunidades e pontos de abandono.
-- Visualização de indicadores e métricas de negócio.
-- Simulação de cenários comerciais.
-- Relatórios e recomendações estratégicas.
-- Módulo demonstrativo de apoio à decisão com IA simulada.
-
-<div align="center">
-
-[![Acessar plataforma](https://img.shields.io/badge/ACESSAR_PLATAFORMA-E32636?style=for-the-badge)](https://pulse-consumer-behavior-intelligenc.vercel.app/)
-
-[![Ver projeto no GitHub](https://img.shields.io/badge/VER_PROJETO_NO_GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelanoronhaa/portifolio-isa)
-
-</div>
-
-> Projeto independente com dados demonstrativos, sem vínculo ou integração com o iFood.
 
 ---
 
@@ -73,8 +85,8 @@ O projeto busca transformar dados em informações estratégicas, conectando an�
 <img src="https://img.shields.io/badge/HTML5-E32636?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/v0-20232A?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-E32636?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/V0-20232A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/IA-E32636?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -91,15 +103,30 @@ Busco desenvolver conhecimentos e projetos que aproximem Administração, dados 
 
 <div align="center">
 
-### Vamos conectar ideias e oportunidades?
+## Vamos conectar ideias e oportunidades?
 
-[![GitHub](https://img.shields.io/badge/MEU_GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelanoronhaa)
+**Estratégia, dados e tecnologia para transformar ideias em soluções.**
 
-**Estratégia + Dados + Tecnologia**
+<br>
 
-</div>
+<a href="https://www.linkedin.com/in/isabelanoronha/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
+</a>
 
-<div align="center">
-  <sub>Portfólio construído com foco em estratégia de negócios e tecnologia.</sub>
-  <p>📫 <b>Vamos nos conectar?</b> <a href="https://br.linkedin.com/in/isabelanoronha" target="_blank">LinkedIn</a></p>
+&nbsp;
+
+<a href="https://github.com/isabelanoronhaa" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Explore_meus_projetos-20232A?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Business-E32636?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data-20232A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Technology-6B7280?style=flat-square"/>
+
+<br><br>
+
+<sub>Portfólio desenvolvido com curiosidade, estratégia e vontade de aprender.</sub>
+
 </div>
