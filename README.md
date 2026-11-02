@@ -1,44 +1,103 @@
 <div align="center">
 
-# 👋 Olá, sou a Isabela!
+# 👋 Olá! Eu sou a Isabela
 
-### 🚀 Estudante de Administração | Foco em Estratégia, Dados & IA
+### Administração • Dados • Inteligência Artificial
 
-[🔗 **Aceder à Plataforma PULSE (Vercel)**](https://pulse-consumer-behavior-intelligenc.vercel.app/)
+Estudante de Administração na **Universidade Federal do Rio Grande do Sul (UFRGS)**.
+
+Tenho interesse na interseção entre negócios, tecnologia e inteligência artificial, explorando como ferramentas digitais podem transformar problemas em oportunidades e apoiar decisões estratégicas.
+
+<br>
+
+<img src="https://img.shields.io/badge/Business-Strategy-20232A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data-Analytics-6B7280?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial-Intelligence-E32636?style=for-the-badge" />
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelanoronhaa)
 
 </div>
 
 ---
 
-### 💼 Sobre Mim
-Estudante de Administração na **UFRGS**, apaixonada por inovação, análise de dados e inteligência artificial. A minha missão é unir a visão estratégica de negócios a soluções digitais modernas para resolver problemas reais de mercado e otimizar a experiência do consumidor.
+## 🚀 Projeto em destaque
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/PULSE-Consumer_Behavior_Intelligence-E32636?style=for-the-badge" />
+
+</div>
+
+O **PULSE** é uma plataforma demonstrativa de inteligência de negócios voltada à análise do comportamento do consumidor no mercado de delivery.
+
+O projeto busca transformar dados em informações estratégicas, conectando análise de indicadores, comportamento do consumidor e tomada de decisão.
+
+**Principais funcionalidades:**
+
+- Análise do comportamento e da jornada de compra.
+- Identificação de oportunidades e pontos de abandono.
+- Visualização de indicadores e métricas de negócio.
+- Simulação de cenários comerciais.
+- Relatórios e recomendações estratégicas.
+- Módulo demonstrativo de apoio à decisão com IA simulada.
+
+<div align="center">
+
+[![Acessar plataforma](https://img.shields.io/badge/ACESSAR_PLATAFORMA-E32636?style=for-the-badge)](https://pulse-consumer-behavior-intelligenc.vercel.app/)
+
+[![Ver projeto no GitHub](https://img.shields.io/badge/VER_PROJETO_NO_GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelanoronhaa/portifolio-isa)
+
+</div>
+
+> Projeto independente com dados demonstrativos, sem vínculo ou integração com o iFood.
 
 ---
 
-### 🧠 Projeto em Destaque: PULSE
-> *Plataforma conceitual de inteligência de dados voltada ao mercado de delivery, desenvolvida para explorar o comportamento do consumidor e o abandono de carrinho.*
+## 🧩 Áreas de interesse
 
-* **💡 Principais Funcionalidades:** Simulador financeiro de cenários (DRE, margem e CAC/LTV), análise de jornada e um *AI Business Advisor* integrado.
-* **🎯 Contexto:** Desenvolvido como portfólio estratégico para a candidatura ao programa **AI Builder do iFood**.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| Área | Interesses |
+| :--- | :--- |
+| **Negócios e Estratégia** | Gestão, análise de negócios e tomada de decisão |
+| **Dados e Analytics** | Indicadores, visualização de dados e inteligência de negócios |
+| **Inteligência Artificial** | IA generativa, engenharia de prompts e aplicações práticas |
+| **Produtos Digitais** | Desenvolvimento de soluções e experimentação tecnológica |
 
 ---
 
-### 📈 Competências de Gestão
-* **Estratégia:** Visão de produto (Product Management) e análise de indicadores de desempenho.
-* **Dados:** Modelação de dados orientada a resultados e análise de comportamento do consumidor.
+## 🛠️ Ferramentas e tecnologias
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E32636?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/v0-20232A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-E32636?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
 
 ---
+
+## 💡 Minha perspectiva
+
+Acredito que a tecnologia ganha ainda mais valor quando está conectada a problemas reais.
+
+Busco desenvolver conhecimentos e projetos que aproximem Administração, dados e inteligência artificial, transformando ideias em soluções digitais.
+
+---
+
+<div align="center">
+
+### Vamos conectar ideias e oportunidades?
+
+[![GitHub](https://img.shields.io/badge/MEU_GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelanoronhaa)
+
+**Estratégia + Dados + Tecnologia**
+
+</div>
 
 <div align="center">
   <sub>Portfólio construído com foco em estratégia de negócios e tecnologia.</sub>
