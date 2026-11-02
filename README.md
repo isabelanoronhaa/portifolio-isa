@@ -1,155 +1,88 @@
- <div align="center">
-
-# 👋 Olá! Eu sou a Isabela
-
-### Administração • Dados • Inteligência Artificial
-
-🎓 Estudante de **Administração na Universidade Federal do Rio Grande do Sul (UFRGS)**.
-
-Tenho interesse na interseção entre negócios, tecnologia e inteligência artificial. Gosto de explorar como ferramentas digitais podem transformar problemas em oportunidades, otimizar processos e apoiar decisões estratégicas.
-
-<br>
-
-<img src="https://img.shields.io/badge/Business-Strategy-20232A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data-Analytics-6B7280?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Artificial-Intelligence-E32636?style=for-the-badge" />
-
+<div align="center">
+  <img src="assets/capa.svg" alt="Olá, eu sou a Isabela! Portfólio de Administração, negócios, dados e tecnologia" width="100%" />
+  <a href="https://www.linkedin.com/in/isabelanoronha/"><img alt="LinkedIn" src="https://img.shields.io/badge/MEU_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/isabelanoronhaa"><img alt="GitHub" src="https://img.shields.io/badge/MEU_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
+✦ Um pouco sobre mim
+Sou estudante de Administração na Universidade Federal do Rio Grande do Sul (UFRGS) e tenho interesse na conexão entre negócios, análise de dados, tecnologia e inteligência artificial.
 
----
+Gosto de explorar ideias, organizar informações e experimentar ferramentas digitais para transformar conhecimentos em soluções práticas. Neste portfólio, compartilho projetos autorais que nasceram da vontade de aprender fazendo — unindo o olhar da Administração à curiosidade por novas tecnologias.
+<div align="center">
+  <img src="assets/logo-ufrgs.png" alt="Logotipo da UFRGS" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo-escola-administracao.jpg" alt="Logotipo da Escola de Administração da UFRGS" height="100" />
+  <br />
+  <sub>Vínculo acadêmico: Universidade Federal do Rio Grande do Sul · Escola de Administração</sub>
+</div>✦ Projetos em destaque
+01 · PULSE — Inteligência sobre o comportamento do consumidor
+Inteligência de negócios · Comportamento do consumidor · Estratégia comercial
 
-## 🚀 Projeto em destaque
-
-# PULSE — Consumer Behavior Intelligence
-
-**Plataforma demonstrativa de inteligência de negócios voltada à análise do comportamento do consumidor no mercado de delivery.**
-
-O PULSE foi desenvolvido com a proposta de transformar dados de comportamento do consumidor em informações estratégicas, facilitando a identificação de oportunidades e apoiando decisões comerciais.
-
-### 📊 Funcionalidades
-
-- **Visão geral:** painel com indicadores de desempenho, conversão, abandono e comportamento de consumo.
-- **Consumer Behavior:** análise de padrões de navegação, horários de acesso, produtos e categorias mais procurados.
-- **Cart Insights:** análise da jornada de compra e identificação de pontos de abandono.
-- **Simulador de cenários:** experimentação de estratégias comerciais envolvendo preços, frete, descontos e tempo de entrega.
-- **AI Business Advisor:** assistente demonstrativo que utiliza regras predefinidas para simular respostas e recomendações sobre indicadores e oportunidades de negócio.
-- **Relatórios e oportunidades:** organização de análises em recomendações estratégicas, com ações sugeridas e resultados esperados como hipóteses.
-
-### 🧠 Conceito
-
-O projeto conecta conceitos de Administração, análise de dados e tecnologia em uma experiência digital orientada à tomada de decisão.
-
-**Dados → Análise → Oportunidades → Decisão**
-
-### 🛠️ Tecnologias e ferramentas
-
-- **IA generativa:** apoio à concepção e ao desenvolvimento.
-- **V0:** criação e desenvolvimento da interface.
-- **HTML e CSS:** construção da experiência web.
-- **Vercel:** publicação da plataforma.
-- **GitHub:** organização do projeto.
-
-### 📌 Sobre o projeto
-
-Projeto independente com dados fictícios e resultados demonstrativos, sem vínculo ou integração com o iFood. O AI Business Advisor utiliza respostas simuladas por regras, sem conexão com modelos reais de IA.
+O PULSE é um protótipo de plataforma de inteligência de negócios pensado para explorar a jornada de compra no setor de delivery. A proposta é mostrar como indicadores e visualizações podem ajudar a identificar padrões de comportamento, gargalos de conversão e oportunidades comerciais.
+<div align="center">
+  <a href="https://pulse-consumer-behavior-intelligenc.vercel.app/"><img src="assets/pulse.png" alt="Captura real do painel de indicadores do PULSE" width="94%" /></a>
+</div>
+O que é possível explorar:
+- Painel de indicadores de desempenho e comportamento de navegação.
+- Filtros por período, restaurante, categoria e horário.
+- Visualizações de acessos, produtos e conversão.
+- Simulador de cenários comerciais.
+- Assistente de negócios com recomendações simuladas, baseadas em regras predefinidas.
+Meu aprendizado: conectar métricas e hipóteses comerciais à construção de uma interface que facilite a leitura dos dados e a reflexão sobre decisões de negócio.
+Transparência: os dados apresentados são demonstrativos. O assistente não está conectado a um modelo de IA em tempo real; suas respostas são simuladas por regras.
 
 <div align="center">
+  <a href="https://pulse-consumer-behavior-intelligenc.vercel.app/"><img alt="Acessar plataforma PULSE" src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-EA2638?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>02 · Macroeconomia — Plataforma interativa de estudos
+Educação · Organização da informação · Aprendizagem interativa
 
-<a href="https://pulse-consumer-behavior-intelligenc.vercel.app/">
-  <img src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-E32636?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/isabelanoronhaa/portifolio-isa">
-  <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-20232A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
- <h3>🧩 Oficina I — Plataforma Interativa de Estudos</h3>
-
-Plataforma digital desenvolvida para transformar os materiais da disciplina de Oficina I em um ambiente de estudos mais visual, organizado e interativo.
-
-**Principais funcionalidades:**
-- Conteúdos organizados por módulos.
-- Resumos estruturados a partir dos materiais das aulas.
-- Navegação interativa entre os conteúdos.
-- Ambiente digital para consulta e revisão dos temas.
-
-**Acesse a plataforma:** [Oficina I — Plataforma de Estudos](https://oficina-i.vercel.app/)
-
-**Tecnologias e plataformas:** HTML, CSS, ferramentas de IA e Vercel.
-
-### 📊 Macroeconomia — Plataforma Interativa de Estudos
-
-Plataforma digital desenvolvida para organizar os conteúdos da disciplina de Macroeconomia em um ambiente de estudos visual, estruturado e interativo, facilitando a compreensão e a revisão dos principais conceitos econômicos.
-
-**Principais funcionalidades:**
-- Conteúdos organizados por temas da disciplina.
-- Apresentação visual dos conceitos de Macroeconomia.
-- Material de apoio para consulta e revisão.
-- Navegação interativa entre os conteúdos.
-
-**Acesse a plataforma:** [Macroeconomia — Plataforma de Estudos](https://macroeconomia-five.vercel.app/)
-
-## 🧩 Áreas de interesse
-
-| Área | Interesses |
-| :--- | :--- |
-| **Negócios e Estratégia** | Gestão, análise de negócios e tomada de decisão |
-| **Dados e Analytics** | Indicadores, visualização de dados e inteligência de negócios |
-| **Inteligência Artificial** | IA generativa, engenharia de prompts e aplicações práticas |
-| **Produtos Digitais** | Desenvolvimento de soluções e experimentação tecnológica |
-
----
-
-## 🛠️ Tecnologias e plataformas utilizadas
-
+Desenvolvi uma plataforma de estudos para reunir e organizar conteúdos de Macroeconomia em um ambiente digital mais visual e fácil de consultar. A ideia foi ir além de um resumo tradicional, combinando explicações, revisão e recursos de navegação em uma única experiência.
 <div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E32636?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/V0-20232A?style=for-the-badge&logo=vercel&logoColor=white" alt="V0"/>
-<img src="https://img.shields.io/badge/IA-E32636?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial"/>
-<img src="https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
+  <a href="https://macroeconomia-five.vercel.app/"><img src="assets/macroeconomia.png" alt="Captura real da plataforma de estudos de Macroeconomia" width="94%" /></a>
 </div>
-
----
-
-## 💡 Minha perspectiva
-
-Acredito que a tecnologia ganha ainda mais valor quando está conectada a problemas reais.
-
-Busco desenvolver conhecimentos e projetos que aproximem Administração, dados e inteligência artificial, transformando ideias em soluções digitais.
-
----
-
+O que é possível explorar:
+- Conteúdo distribuído por sete módulos.
+- Pesquisa de conceitos, fórmulas e palavras-chave.
+- Revisão rápida e questões para praticar.
+- Organização do progresso de estudo.
+Meu aprendizado: transformar conteúdos acadêmicos extensos em uma estrutura digital acessível, organizada e interativa.
 <div align="center">
+  <a href="https://macroeconomia-five.vercel.app/"><img alt="Acessar plataforma de Macroeconomia" src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-EA2638?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>03 · Oficina I — Plataforma interativa de estudos
+Gestão do conhecimento · Organização · Experiência do usuário
 
-## Vamos conectar ideias e oportunidades?
+O projeto Oficina I nasceu da proposta de transformar materiais da disciplina em um ambiente de estudo estruturado, com navegação por temas e acompanhamento da revisão. O foco foi facilitar a consulta e tornar o processo de aprendizagem mais dinâmico.
+<div align="center">
+  <a href="https://oficina-i.vercel.app/"><img src="assets/oficina-i.png" alt="Captura real da página inicial da plataforma Oficina I" width="94%" /></a>
+</div>
+O que é possível explorar:
+- Conteúdos organizados em módulos e tópicos.
+- Pesquisa de conceitos e navegação temática.
+- Checklist e acompanhamento de progresso.
+- Recursos de revisão e questões interativas.
+Meu aprendizado: pensar na organização do conhecimento e na experiência de quem utiliza a ferramenta, conectando conteúdo, clareza visual e funcionalidades práticas.
+<div align="center">
+  <a href="https://oficina-i.vercel.app/"><img alt="Acessar plataforma Oficina I" src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-EA2638?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>✦ Áreas de interesse
+Administração e negócios	Dados e tecnologia
+Estratégia e tomada de decisão	Inteligência de negócios
+Comportamento do consumidor	Visualização de indicadores
+Organização e melhoria de processos	Ferramentas digitais
+Análise de cenários	Inteligência artificial aplicada
+Inovação nas organizações	Experiências digitais interativas
 
-**Estratégia, dados e tecnologia para transformar ideias em soluções.**
 
-<br>
+✦ Como desenvolvo minhas ideias
+01 · Entender o desafio — identificar o problema, a necessidade ou a oportunidade que motiva o projeto.
 
-<a href="https://www.linkedin.com/in/isabelanoronha/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
-</a>
+02 · Organizar o raciocínio — reunir informações, estruturar conteúdos e definir o que a solução precisa comunicar.
 
-&nbsp;
+03 · Experimentar na prática — utilizar ferramentas digitais, inclusive recursos de IA como apoio ao desenvolvimento, para construir e aprimorar protótipos.
 
-<a href="https://github.com/isabelanoronhaa" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Explore_meus_projetos-20232A?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Business-E32636?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data-20232A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Technology-6B7280?style=flat-square"/>
-
-<br><br>
-
-<sub>Portfólio desenvolvido com curiosidade, estratégia e vontade de aprender.</sub>
-
+04 · Aprender e evoluir — observar o resultado, reconhecer limitações e identificar melhorias para versões futuras.
+✦ Vamos nos conectar?
+Tenho interesse em oportunidades de aprendizado e experiências que aproximem Administração, dados e tecnologia. Será um prazer trocar ideias e conhecer projetos nessa área.
+<div align="center">
+  <a href="https://www.linkedin.com/in/isabelanoronha/"><img alt="Conectar pelo LinkedIn" src="https://img.shields.io/badge/CONECTAR_NO_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <br /><br />
+  <sub>Construindo, aprendendo e explorando novas possibilidades. 🤎</sub>
 </div>
