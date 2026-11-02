@@ -1,65 +1,56 @@
 
 <div align="center">
 
-<img src="assets/capa.svg" alt="Portfólio de Isabela Noronha" width="100%">
+<img src="assets/capa.svg" alt="Portfólio de Isabela Noronha — Administração, negócios, dados e tecnologia" width="100%">
 
 </div>
 
 <br>
+
 
 ## ✦ Olá, eu sou a Isabela! 👋
 
-Sou estudante de **Administração na Universidade Federal do Rio Grande do Sul (UFRGS)** e tenho interesse na conexão entre **negócios, análise de dados, tecnologia e inteligência artificial**.
+Sempre fui uma pessoa curiosa, com interesse por diferentes assuntos e vontade de aprender coisas novas. Mas, mesmo gostando de explorar várias áreas, inovação e tecnologia sempre despertaram uma curiosidade especial em mim.
 
-Gosto de explorar ideias, organizar informações e experimentar ferramentas digitais para transformar conhecimentos em soluções práticas.
+Ao mesmo tempo, gosto muito do contato com as pessoas, de trocar ideias e de entender diferentes perspectivas. Esse interesse me aproximou da área de Recursos Humanos, onde tive a oportunidade de desenvolver minha experiência profissional e conhecer mais sobre o lado humano das organizações.
 
-Neste portfólio, compartilho projetos autorais que nasceram da vontade de **aprender fazendo**, unindo o olhar da Administração à curiosidade por novas tecnologias.
+A comunicação também é algo com que sempre me identifiquei. Gosto de pensar em como as ideias são transmitidas, como as pessoas se conectam e como podemos tornar informações mais claras e acessíveis.
 
-<br>
+Hoje, como estudante de **Administração na Universidade Federal do Rio Grande do Sul (UFRGS)**, venho descobrindo formas de conectar esses interesses. Tenho explorado ferramentas digitais, análise de dados e inteligência artificial, buscando entender como a tecnologia pode contribuir tanto para os negócios quanto para as pessoas.
 
-<div align="center">
+Foi dessa vontade de experimentar e aprender na prática que surgiram os projetos que compartilho aqui. Mais do que apresentar resultados, este portfólio representa minha curiosidade, meus aprendizados e minha vontade de continuar descobrindo novas possibilidades.
 
-<img src="assets/logo-ufrgs.png" alt="Logo da UFRGS" width="90">
+<div align="right">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/logo-ufrgs.png" alt="Logo da UFRGS" width="64"> &nbsp; <img src="assets/logo-escola-administracao.jpg" alt="Logo da Escola de Administração da UFRGS" width="104">
 
-<img src="assets/logo-escola-administracao.jpg" alt="Logo da Escola de Administração da UFRGS" width="135">
-
-<p>
-  <sub>Universidade Federal do Rio Grande do Sul · Escola de Administração</sub>
-</p>
+<p><sub>Administração · UFRGS · Escola de Administração</sub></p>
 
 </div>
-
-<br>
 
 ---
 
 ## ✦ Projetos em destaque
 
-Projetos autorais que representam minha iniciativa de aprender, experimentar e aplicar conhecimentos da Administração por meio de ferramentas digitais.
-
-<br>
+Projetos que nasceram de desafios, interesses e aprendizados, combinando o olhar da Administração com a experimentação de ferramentas digitais.
 
 ### 01 · PULSE — Inteligência sobre o comportamento do consumidor
 
 **Inteligência de negócios · Comportamento do consumidor · Estratégia comercial**
 
-O **PULSE** é um protótipo de plataforma de inteligência de negócios voltado à jornada de compra no setor de delivery.
-
-A proposta é explorar como indicadores e visualizações podem ajudar a identificar padrões de comportamento, gargalos de conversão e oportunidades comerciais.
+O **PULSE** é um protótipo de inteligência de negócios voltado à jornada de compra no setor de delivery. A proposta é explorar como indicadores podem ajudar a identificar padrões de comportamento, gargalos de conversão e oportunidades comerciais.
 
 <div align="center">
 
 <a href="https://pulse-consumer-behavior-intelligenc.vercel.app/">
-  <img src="assets/pulse.png" alt="Painel de indicadores do PULSE" width="680">
+  <img src="assets/pulse.png" alt="Captura real do PULSE" width="680">
 </a>
 
-<p><sub>Visão geral do painel de indicadores · Dados demonstrativos</sub></p>
+<p><sub>Painel do PULSE · Dados demonstrativos</sub></p>
 
 </div>
 
-#### O que é possível explorar
+**O que é possível explorar:**
 
 - Indicadores de desempenho e comportamento de navegação.
 - Filtros por período, restaurante, categoria e horário.
@@ -67,18 +58,14 @@ A proposta é explorar como indicadores e visualizações podem ajudar a identif
 - Simulador de cenários comerciais.
 - Assistente de negócios com recomendações simuladas por regras predefinidas.
 
-**Conhecimentos explorados:** inteligência de negócios, indicadores de desempenho, comportamento do consumidor, análise de cenários e estratégia comercial.
+**O que aprendi:** conectar métricas e hipóteses comerciais à construção de uma interface que facilita a leitura dos dados e a reflexão sobre decisões.
 
-**O que aprendi:** conectar métricas e hipóteses comerciais à construção de uma interface que facilita a leitura de dados e a reflexão sobre decisões de negócio.
-
-> **Sobre o protótipo:** os dados apresentados são demonstrativos. O assistente utiliza respostas simuladas por regras, sem integração com um modelo de inteligência artificial em tempo real.
-
-<br>
+> **Sobre o protótipo:** os dados são demonstrativos. O assistente utiliza respostas simuladas por regras, sem conexão com um modelo de IA em tempo real.
 
 <div align="center">
 
 <a href="https://pulse-consumer-behavior-intelligenc.vercel.app/">
-  <img src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-142C52?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar plataforma PULSE">
+  <img src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-142C52?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar PULSE">
 </a>
 
 </div>
@@ -87,43 +74,66 @@ A proposta é explorar como indicadores e visualizações podem ajudar a identif
 
 ---
 
+### 02 · Simulador Acadêmico — Planejamento universitário
+
+**Planejamento acadêmico · Organização de informações · Tecnologia**
+
+**🚧 Projeto em desenvolvimento**
+
+O **Simulador Acadêmico** é uma ferramenta em desenvolvimento para apoiar estudantes na organização da trajetória universitária. A ideia é facilitar a visualização da situação acadêmica e a exploração de possibilidades para os próximos semestres, reunindo informações que costumam estar dispersas em documentos e sistemas.
+
+**O que estou explorando:**
+
+- Organização de disciplinas e informações curriculares.
+- Acompanhamento da trajetória acadêmica.
+- Simulação de possibilidades de planejamento dos semestres.
+- Apresentação mais clara de informações para apoiar escolhas acadêmicas.
+
+**O que estou aprendendo:** transformar uma necessidade vivida no contexto universitário em uma ferramenta prática, considerando clareza, usabilidade e limites da leitura de documentos acadêmicos.
+
+> **Versão em desenvolvimento:** recursos e resultados podem mudar durante os testes e aprimoramentos. As informações apresentadas devem ser conferidas com os canais oficiais da universidade.
+
+<div align="center">
+
+<a href="https://planejadoracadmicoufrgs.vercel.app/">
+  <img src="https://img.shields.io/badge/ACESSAR_SIMULADOR_EM_DESENVOLVIMENTO-142C52?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar versão em desenvolvimento do Simulador Acadêmico">
+</a>
+
+</div>
+
 <br>
 
-### 02 · Macroeconomia — Plataforma interativa de estudos
+---
+
+### 03 · Macroeconomia — Plataforma interativa de estudos
 
 **Educação · Organização da informação · Aprendizagem interativa**
 
-Desenvolvi uma plataforma de estudos para organizar conteúdos de Macroeconomia em um ambiente digital mais visual e fácil de consultar.
-
-A ideia foi ir além de um resumo tradicional, combinando explicações, recursos de revisão e navegação temática em uma única experiência.
+Desenvolvi uma plataforma digital para organizar conteúdos de **Macroeconomia** em um ambiente de estudo mais visual e fácil de consultar. A ideia foi ir além de um resumo tradicional, combinando explicações, navegação e recursos de revisão.
 
 <div align="center">
 
 <a href="https://macroeconomia-five.vercel.app/">
-  <img src="assets/macroeconomia.png" alt="Plataforma interativa de Macroeconomia" width="680">
+  <img src="assets/macroeconomia.png" alt="Captura real da plataforma de Macroeconomia" width="680">
 </a>
 
-<p><sub>Organização por módulos, pesquisa e recursos de revisão</sub></p>
+<p><sub>Conteúdo por módulos, pesquisa e revisão</sub></p>
 
 </div>
 
-#### O que é possível explorar
+**O que é possível explorar:**
 
-- Conteúdo estruturado em sete módulos.
+- Conteúdos organizados por módulos.
 - Pesquisa de conceitos, fórmulas e palavras-chave.
-- Revisão rápida e questões para praticar.
+- Recursos de revisão e questões para praticar.
 - Acompanhamento do progresso de estudo.
 
-**Conhecimentos explorados:** organização da informação, síntese de conteúdos, aprendizagem digital e experiência do usuário.
-
-**O que aprendi:** transformar conteúdos acadêmicos extensos em uma estrutura digital organizada, acessível e interativa.
-
-<br>
+**O que aprendi:** transformar materiais acadêmicos extensos em uma estrutura digital organizada e interativa.
 
 <div align="center">
 
 <a href="https://macroeconomia-five.vercel.app/">
-  <img src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-142C52?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar plataforma de Macroeconomia">
+  <img src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-142C52?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar Macroeconomia">
 </a>
 
 </div>
@@ -132,43 +142,35 @@ A ideia foi ir além de um resumo tradicional, combinando explicações, recurso
 
 ---
 
-<br>
-
-### 03 · Oficina I — Plataforma interativa de estudos
+### 04 · Oficina I — Plataforma interativa de estudos
 
 **Gestão do conhecimento · Organização · Experiência do usuário**
 
-O projeto **Oficina I** nasceu da proposta de transformar materiais da disciplina em um ambiente de estudo estruturado, com navegação por temas e acompanhamento da revisão.
-
-O foco foi facilitar a consulta e tornar o processo de aprendizagem mais dinâmico.
+O projeto **Oficina I** surgiu da vontade de transformar materiais da disciplina em um ambiente de aprendizagem estruturado, com navegação por assuntos, recursos de revisão e acompanhamento do progresso.
 
 <div align="center">
 
 <a href="https://oficina-i.vercel.app/">
-  <img src="assets/oficina-i.png" alt="Plataforma interativa de Oficina I" width="680">
+  <img src="assets/oficina-i.png" alt="Captura real da plataforma Oficina I" width="680">
 </a>
 
-<p><sub>Página inicial com módulos e acompanhamento de progresso</sub></p>
+<p><sub>Ambiente de estudos com navegação e acompanhamento</sub></p>
 
 </div>
 
-#### O que é possível explorar
+**O que é possível explorar:**
 
-- Conteúdos organizados em módulos e tópicos.
+- Conteúdos organizados por módulos e tópicos.
 - Pesquisa de conceitos e navegação temática.
 - Checklist e acompanhamento de progresso.
 - Recursos de revisão e questões interativas.
 
-**Conhecimentos explorados:** gestão do conhecimento, organização de processos, experiência do usuário e desenvolvimento de soluções digitais.
-
-**O que aprendi:** estruturar conhecimento e pensar na experiência de quem utiliza a ferramenta, conectando conteúdo, clareza visual e funcionalidades práticas.
-
-<br>
+**O que aprendi:** organizar conhecimento pensando na experiência de quem utiliza a ferramenta, combinando conteúdo, clareza visual e recursos práticos.
 
 <div align="center">
 
 <a href="https://oficina-i.vercel.app/">
-  <img src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-142C52?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar plataforma Oficina I">
+  <img src="https://img.shields.io/badge/ACESSAR_PLATAFORMA-142C52?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar Oficina I">
 </a>
 
 </div>
@@ -177,41 +179,29 @@ O foco foi facilitar a consulta e tornar o processo de aprendizagem mais dinâmi
 
 ---
 
-## ✦ Áreas de interesse
+## ✦ Meus interesses
 
-Tenho interesse em desenvolver conhecimentos que conectem a gestão das organizações ao uso estratégico de dados e tecnologias digitais.
-
-| Administração e negócios | Dados e tecnologia |
+| Pessoas e negócios | Tecnologia e inovação |
 | :--- | :--- |
-| Estratégia e tomada de decisão | Inteligência de negócios |
-| Comportamento do consumidor | Visualização de indicadores |
-| Organização e melhoria de processos | Ferramentas digitais |
-| Análise de cenários | Inteligência artificial aplicada |
-| Inovação nas organizações | Experiências digitais interativas |
+| Recursos Humanos e desenvolvimento de pessoas | Inteligência artificial aplicada |
+| Comunicação e relacionamento | Ferramentas digitais |
+| Estratégia e tomada de decisão | Análise e visualização de dados |
+| Melhoria de processos | Soluções digitais e experimentação |
+| Comportamento do consumidor | Inteligência de negócios |
 
 <br>
 
 ---
 
-## ✦ Como desenvolvo minhas ideias
+## ✦ Como transformo ideias em projetos
 
-Acredito que boas soluções começam com a compreensão de um problema e evoluem por meio de experimentação, análise e aprendizado.
+**01 · Entender a necessidade** — observar um problema ou uma oportunidade que faça sentido para as pessoas.
 
-**01 · Entender o desafio**
+**02 · Organizar as informações** — reunir conteúdos, identificar prioridades e pensar na melhor maneira de apresentá-los.
 
-Identificar o problema, a necessidade ou a oportunidade que motiva o projeto.
+**03 · Experimentar** — explorar ferramentas digitais e recursos de IA como apoio à construção de protótipos.
 
-**02 · Organizar o raciocínio**
-
-Reunir informações, estruturar conteúdos e definir o que a solução precisa comunicar.
-
-**03 · Experimentar na prática**
-
-Utilizar ferramentas digitais, incluindo recursos de inteligência artificial como apoio ao desenvolvimento, para construir e aprimorar protótipos.
-
-**04 · Aprender e evoluir**
-
-Observar os resultados, reconhecer limitações e identificar melhorias para versões futuras.
+**04 · Aprender e aprimorar** — avaliar o resultado, reconhecer limitações e buscar melhorias.
 
 <br>
 
@@ -219,11 +209,7 @@ Observar os resultados, reconhecer limitações e identificar melhorias para ver
 
 ## ✦ Vamos nos conectar?
 
-Tenho interesse em oportunidades de aprendizado, projetos e experiências que aproximem **Administração, dados e tecnologia**.
-
-Será um prazer trocar ideias, compartilhar experiências e conhecer iniciativas nessas áreas.
-
-<br>
+Gosto de conhecer pessoas, trocar ideias e aprender com experiências diferentes. Tenho interesse em oportunidades que aproximem **Administração, pessoas, comunicação e tecnologia**.
 
 <div align="center">
 
@@ -237,7 +223,6 @@ Será um prazer trocar ideias, compartilhar experiências e conhecer iniciativas
   <img src="https://img.shields.io/badge/MEU_GITHUB-C4A15A?style=for-the-badge&logo=github&logoColor=142C52" alt="Meu GitHub">
 </a>
 
-<br>
 <br>
 
 <sub>Construindo, aprendendo e explorando novas possibilidades. 🤎</sub>
