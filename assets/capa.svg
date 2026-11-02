@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Portfólio de Isabela Noronha, Administração, negócios, dados e tecnologia">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121A3C"/><stop offset="1" stop-color="#2A3E69"/></linearGradient></defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+<circle cx="1080" cy="-40" r="240" fill="#C4A866" opacity=".11"/><circle cx="1140" cy="320" r="160" fill="none" stroke="#C4A866" stroke-width="2" opacity=".35"/>
+<path d="M890 0 L1100 340 M970 0 L1180 340" stroke="#C4A866" opacity=".16" stroke-width="2"/>
+<rect x="70" y="52" width="280" height="30" rx="15" fill="#C4A866" opacity=".18"/>
+<text x="87" y="73" font-size="15" font-family="Arial,sans-serif" fill="#E6CF96" font-weight="bold" letter-spacing="2">PORTFÓLIO DE PROJETOS</text>
+<text x="70" y="163" font-size="54" font-family="Arial,sans-serif" fill="#FFFFFF" font-weight="bold">Olá, eu sou a Isabela!</text>
+<text x="72" y="213" font-size="24" font-family="Arial,sans-serif" fill="#E3D6B5">Administração • Negócios • Dados • Tecnologia</text>
+<rect x="72" y="248" width="80" height="4" rx="2" fill="#C4A866"/>
+<text x="72" y="290" font-size="18" font-family="Arial,sans-serif" fill="#F0F2F8">Transformando ideias e conhecimento em projetos práticos.</text>
+</svg>
